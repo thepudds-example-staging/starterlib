@@ -1,1 +1,1 @@
-module github.com/thepudds-example-staging/starterlib
+module github.com/thepudds-example-staging/starterlib/v2
